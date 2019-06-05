@@ -1,6 +1,9 @@
 {
     "name": "chat-app",
     "dependencies": {
-        "express": "^4.15.2"
+        "debug": ">=2.6.9",
+        "express": "^4.15.2",
+        "fresh": ">=0.5.2",
+        "mine": ">=1.4.1"
     }
 }
